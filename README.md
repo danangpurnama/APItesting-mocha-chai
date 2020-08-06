@@ -7,34 +7,33 @@
 ### Environment Setup
 
 1. Global Dependencies
-    * Mac 
+    * Install Node via Homebrew
         ```
         $ brew install node
         ```
-        check the Node and NPM version.
+    * Check the Node and NPM version.
         ```
         $node -v
         v12.7.0
         ```
-        To check npm version
+    * To check npm version
         ```
         $npm -v
         6.10.0
         ```
 2. Project Dependencies
+    * Install Dependencies
         ```
         npm install 
         ```
 
 ### Running Test
-   Type following command to running test
-        
+   *  Type following command to running test
         ```
         npm run test-api
         ```
 ### Generate Report
-   Type following command to Generate Report
-        
+   *  Type following command to Generate Report
         ```
         npm run reports
         ```
