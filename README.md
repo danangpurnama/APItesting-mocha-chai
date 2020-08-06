@@ -28,11 +28,13 @@
 
 ### Running Test
    Type following command to running test
+        
         ```
         npm run test-api
         ```
 ### Generate Report
    Type following command to Generate Report
+        
         ```
         npm run reports
         ```
